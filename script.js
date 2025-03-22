@@ -1,3 +1,4 @@
+<!-- Tahmid Mobassir Khan - ID1930818 -->
 function showPromotion() {
     const promoCode = "Candle15";
     alert(`Use promo code ${promoCode} at checkout to get 15% off your first order!`);
